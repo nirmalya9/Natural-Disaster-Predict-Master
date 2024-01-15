@@ -4,8 +4,7 @@
 2. The project aims at developing a probabilistic system to predict each of the three calamities using time series prediction algorithms(such as LSTMs) and considering scores of prediction from an ensemble of machine learning algorithms (such as Random Forest).
 Training such algorithms on past records of seismic activities, rainfall records, soil quality records, previous calamity history, such disasters will be predicted for a particular region.
 3. Bonus- If time permits, this idea will also explore prediction of epidemic disease breakout via analysis of local hospital records, effectively helping people take proper precautions in due time.
-4. As of now, the app is expected to provide service through an online website hosted on azure server. 
-5. In Case of successful prediction of a natural disaster, an email can also be sent to people from a common government database using Simple Mail Transfer Protocol(SMTP). In case of less developed areas lacking internet facilities, communication can be done through government offices having internet facilities.
+4. In Case of successful prediction of a natural disaster, an email can also be sent to people from a common government database using Simple Mail Transfer Protocol(SMTP). In case of less developed areas lacking internet facilities, communication can be done through government offices having internet facilities.
 
 
 ### Algorithmic Detail:
